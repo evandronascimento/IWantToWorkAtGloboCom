@@ -1,7 +1,7 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Desenvolvimento Webmedia
 
 __Dicas:__
 * Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
@@ -9,7 +9,222 @@ __Dicas:__
 CV
 ==
 
-[Preencha aqui o seu cv]
+Evandro Azeredo do Nascimento
+Rua do Bispo, 160 / 1305 bloco 2.
+Rio Comprido - Rio de Janeiro – RJ
+Brasil CEP: 20261-065
+Fones: 3067-2688
+96807-9598
+Correio eletrônico/Linkedin
+evandro.a.n@ig.com.br
+evandronas@gmail.com
+br.linkedin.com/in/evandroazer
+edodonascimento/
+
+Experiência
+profissional
+
+2009 - Hoje PETROBRAS - Prestador Rio de Janeiro - RJ
+Arquiteto de Software
+ Desenvolvimento em ambiente Windows, C/C++,
+C#, C.DOT.NET, VB.DOT.NET, ORACLE.
+
+2004 - 2009 TNL CONTAX Rio de Janeiro - RJ
+Analista de Sistemas Sr
+ Desenvolvimento em ambiente Windows/XP/2000,
+SQL/Server, C/C++, C#, C.DOT.NET,
+VB.DOT.NET, VB, Java, JavaScript.
+
+2001 - 2004 FININVEST Rio de Janeiro - RJ
+Analista de Sistemas Sr
+ Desenvolvimento em ambiente HP-UX, Solaris,
+Ingres, C/C++, J++, JavaScript e Oracle. Suporte
+7/24 a Sistema crítico de autorização de cartões
+de crédito IST/Swith protocolo ISO-8583 em WAN
+/ LAN X25 e TCP/IP e MQ (IBM).
+
+2000 - 2001 JORNAL O DIA S/A Rio de Janeiro - RJ
+Analista de Suporte Sr
+ Desenvolvimento e Suporte em ambiente
+Windows/NT 3.51 e 4, Windows/95 e 98, Solaris,
+Linux , J++, ASP, JavaScript, Visual Basic 6;
+SQL/Server, Sybase, Acess 97. Protocolos
+usados NETBIOS, IPX/SPX, TCP/IP meios de
+comunicação Internet, Modens, Links 64K e 128K.
+Correio Lotus Notes. Outras ferramentas
+importantes: Hermes, QuarkExpress 3, Photoshop
+4 e 5, OPI Monotype.
+
+1995 - 2000 JORNAL DO BRASIL S/A Rio de Janeiro - RJ
+Analista de Sistemas Sr
+ Desenvolvimento e Suporte em ambiente
+Windows/NT 3.51 e 4, Windows/95 e 98, Windows
+3.11, AIX, Sco-Unix , Ms-Dos com ferramentas: C,
+C++, J++, ASP, JavaScript, Visual Basic 3, 5 e 6;
+DB2, SQL/Server, Acess 3, 97, Delphi, Turbo
+Pascal 5, Btrieve. Protocolos usados NETBIOS,
+IPX/SPX, TCP/IP, X25 meios de comunicação
+Internet, Modens, Links 64K e 128K, Rempac-
+3028/3025, Infonet, CMA, Broadcast, Bloomberg.
+Correio STM400, Ms-Mail, MS-OutLook com 5
+portifolios 500 users com ligação remota . Outras
+ferramentas importantes: FrontPage, Ms-Office,
+OminiPage 8, Folio Views 3.11, Folio SiteDirector
+QuarkExpress 3, Photoshop 4 e 5.
+
+1993 - 1995 Threetek Imp.Exp. Ltda Rio de Janeiro - RJ
+Analista de Suporte
+ Desenvolvimento e Suporte em ambiente
+Windows/95, Windows 3.11, AIX, HP-UX, Solaris,
+Sco-Unix , Ms-Dos com ferramentas: C,
+PowerBuilder, Visual Basic 3; Oracle 7, Watcom
+SQL, Recital, Rasterex (Image Tools), PCI
+(Remote Sensing) SuperNova (Front-End) ,
+Outras ferramentas importantes: Ms-Office.
+1991 - 1992 CM Soluções Rio de Janeiro - RJ
+Analista de Suporte
+ Desenvolvimento e Suporte em ambiente
+Windows 3.11, Sco-Unix, Rede Novel, Rede
+Amplus , Ms-Dos com ferramentas: C, Clipper 5,
+Visual Basic 3. Protocolos usados IPX/SPX,
+NetBios, meios de comunicação Rempac 3028,
+STM/400. Outras ferramentas importantes: Ms-
+Office, Er-Win, Flow-Chart.
+
+1986 - 1991 Soft Consultoria Rio de Janeiro - RJ
+Analista de Suporte
+ Desenvolvimento e Suporte em ambiente
+Windows 3.11, AIX, Sco-Unix, Aix, HP-UX, Solaris,
+SOX, Edix, Sidix, VM-CMS, Ms-Dos com
+ferramentas: C, Assembler, DB2, SAS, REXX,
+EXEC2, Clipper, Dialog.
+
+Resumo dos projetos
+e trabalhos
+importantes
+
+Simulador – Desenvolvimento de simulador de benefícios de saúde e
+previdência da PETROBRAS envolvendo cálculos atuariais e financeiros.
+Discador Contax – Absorção e estabilização do projeto, passando a ser
+um dos analistas responsáveis pelo projeto em questão, projeto este da
+camada crítica da organização escrito em C/C++ e VB com DBMS
+SQL/SERVER.
+
+Messenger – Atuando no re-desenvolvimento do projeto em questão
+coordenado os trabalhos demandados na fabrica de software. Projeto
+escrito em C/C++ e VB com DBMS SQL/SERVER.
+Migração IST/Swith – Atuando como responsável pelo porte do sistema
+escrito em C acessando um DBMS Ingres sobre HP/UX protocolos X25,
+SNA para C/C++ acessando DBMS Oracle sobre Solaris protocolos X25,
+SNA e MQ (IBM).
+
+Captura de Imagens – Atuando na coordenação e desenvolvimentos
+finais do projeto em questão, projeto este escrito em C/C++ e VB.
+CRM Fininvest – Coordenado atividades de desenvolvimento do sistema
+de Relacionamento a Clientes SGC (Sistema de Gestão Comercial)
+escrito em JAVA acessando Oracle sobre HP/UX.
+Estabilização Sistema Hermes - Atuação como responsável pelo suporte
+do produto que trabalha em duas maquinas Solaris com banco de dados
+Sybase integrando-se com OPI Monotype.
+Bug ano 2000 - Atuando como responsável pelos scripts de conversão
+de datas para o formato DD/MM/YYYY nas bases coorporativa da
+empresa, atuando também como DBA em SQL Server 6.5 e DB2 sobre
+RS6000.
+
+Pesquisa JB - Criação da INFOBASE de pesquisa do Jornal do Brasil
+que contêm as edições do JB desde 1993. Projeto elaborado usando
+FolioViews (ferramenta de vanguarda da indexação Fulltext). As
+atividades necessitaram desenvolvimento de programas para recuperar
+textos e formatar a partir de backups antigos além de recuperação a
+partir do papel usando OCR. Projeto também contemplou
+desenvolvimento Web com configuração de maquinas Windows/NT 4.
+
+Editorial - Migração de ambiente de rede Vianet (200 máquinas) para
+Windows/NT Server e clientes Windows/95, refazendo programas em
+Turbo/Pascal 5 acessando banco de dados Btrieve. O sistema da
+camada operacional responsáveis pelo negócio principal do Jornal:
+Criação e composição de matérias para serem editadas no jornal, tanto
+na Matriz do JB como também nas Sucursais da empresa.
+
+Materiais JB – Coordenação e desenvolvimento de um sistema de materiais
+com integração a compras e interface contábil em ambiente SCO-Unix e
+Recital.
+
+Clipping Mesbla - Projeto de indexação de matérias de jornais confeccionado
+usando Oracle como Back-End e Oracle FORM como FRONT-END.
+DIALOG/PRO - Projeto de elaboração de DBMS/DBASE LIKE, que foi
+difundido no Brasil nos anos 80 antes da abertura de mercado. Programação
+C e Assembler.
+
+DataPrev (AplRec) - Desenvolvimento de um sistema de fiscalização de
+empresas escrito em Dialog/Plus-X em ambiente EDIX e SOX. (Implantado
+inicialmente em Belém do Pará e distribuído posteriormente nos demais
+estados do Brasil).
+
+Souza Cruz - Elaboração de um sistema de controle de distribuição de
+produtos entre filiais desenvolvidos em Clipper.
+Marketing Threetek - Sistema elaborado em ambiente Sco-Unix e Recital
+migrado para Watcom SQL e seu Front/End nativo, depois migrado para
+POWERBUILDER mantendo o Watcom/SQL como BackEnd.
+Interbrás - Elaboração de um sistema de controle de negócios desenvolvido
+em Clipper.
+
+Implantação JB-ONLINE – Atuação no apoio técnico das primeiras edições
+do JB na Internet.
+Plantonista - Participação do apoio técnico do Jornal do Brasil sendo um dos
+responsáveis por toda tecnologia envolvida para produção do Jornal do
+Brasil. Atuação com plantonista atendendo problemas nos finais de semana.
+BenchMark Lojas Americanas – Consultor na conversão de um sistema de
+controle de clientes escrito em NATURAL acessando ADABAS sobre VMCMS
+para Dialog/Plus-X sobre EDIX.
+
+Trabalhos de consultor nas seguintes empresas fora do Rio de Janeiro - São
+Paulo: ARNO, COITIA , BLACK&DECKER, TELEFUNKEN, AÇOS
+VILLAGE, SUCURSAL JORNAL DO BRASIL; Salvador: NORBERTO
+ODEBRECHT; Belém: DATAPREV; Fortaleza: IBM/IVIX.
+Suporte – Atuando como suporte para o Brasil dos seguintes produtos: SAS
+(Estatístico), DIALOG (DBMS), RECITAL (DBMS), WATCOM/SQL (DBMS),
+PCI (Remotin Sensing), Super Nova (Front End), RasteRex. (Image Tools).
+
+Formação
+2006 - (Formado) FGV - Rio de Janeiro
+Pós-Graduação em Gerência de Projetos
+
+2001 - 2005 (Formado) UNIBENNETT – Rio de Janeiro RJ
+Graduação em Administração de Empresas
+
+1988 – 1990 (Trancado) UERJ - Rio de Janeiro RJ
+Graduação em Física
+
+1985 – 1987 (Trancado) Veiga de Almeida - Rio de Janeiro RJ
+Graduação em Tecnólogo em Distribuição e Transmissões de
+Energia
+
+1980 – 1984 (Formado) Colégio Luso Carioca Rio de Janeiro RJ
+Ensino médio em Técnico em Processamento de Dados
+
+Cursos SL275 - Linguagem de Programação Java pela SUN
+OO226 - Análise e Projeto Orientado a Objetos pela SUN
+Formação executiva em produção Web pela INFNET
+I521 – Java Web Tier – Servlet e JSP pela INFNET
+Implementing a Database on Microsoft SQL Server 7.0 (833B) – NSI
+System Administration for Microsoft SQL Server 7.0 (832B) - NSI
+Implementing a Microsoft SQL Server 2005 Database / Maintaining a Microsoft
+SQL Server 2005 Database – Allen
+Implementing and Maintaining Microsoft SQL Server 2005 Integration Services
+- Allen
+Designing an ETL Solution Architecture Using Microsoft SQL Server 2005
+Integration Services – Allen
+Tuning and Optimizing Queries using Microsoft SQL Server 2005 - Allen
+Implementing and Maintaining Microsoft SQL Server 2005 Reporting Services
+– Allen
+Designing a Reporting Solution Architecture Using Microsoft SQL Server 2005
+Reporting Services – Allen
+SYBASE ASE Database Administration
+SYBASE ASE Replication Server
+ORACLE PL/SQL 8i
+Atualização em Análise de Sistemas – IBPI
+Idiomas Brasas Básico
 
 __Dicas:__
 * Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
